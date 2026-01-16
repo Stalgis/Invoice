@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Invoice Builder",
+    "slug": "invoice-builder",
+    "scheme": "invoice-builder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
